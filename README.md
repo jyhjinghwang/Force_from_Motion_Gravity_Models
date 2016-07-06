@@ -20,7 +20,7 @@ Please check the sample prototxt file.
 
 ## Available Models
 
-There are three models fine-tuned for different scenarios: biking (taxco), skiing, and jet-skiing.
+There are 3 models fine-tuned for different scenarios: biking (taxco), skiing, and jet-skiing.
 
 Due to the size limitation of Github, please download the trained models from: 
 https://upenn.box.com/v/gravity
