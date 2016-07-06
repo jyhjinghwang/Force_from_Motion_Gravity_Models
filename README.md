@@ -13,7 +13,7 @@ The CNN models are fine-tuned from ImageNet-pretrained AlexNet with the followin
 
 * Image resolution is (180, 320), instead of (227, 227).
 
-* Output of the network is 61 dimensions. It predicts the probability of projected gravity angle discretized by 1 degree between -30 and 30 with the 31th dimensions as 0 degree.
+* Output of the network is 61 dimensions. It predicts the probability of projected gravity angle discretized by 1 degree between -30 and 30 with the 31th dimension as 0 degree.
 
 Please check the sample prototxt file.
 
