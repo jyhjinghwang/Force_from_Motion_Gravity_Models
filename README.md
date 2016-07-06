@@ -15,7 +15,7 @@ The CNN models are fine-tuned from ImageNet-pretrained AlexNet with the followin
 
 * Output of the network is 61 dimensions. It predicts the probability of projected gravity angle discretized by 1 degree between -30 and 30 with the 31th dimensions as 0 degree.
 
-Check the sample prototxt file.
+Please check the sample prototxt file.
 
 
 ## Available Models
