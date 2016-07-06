@@ -7,7 +7,7 @@ For more information, please visit our project webpage: http://www.seas.upenn.ed
 
 ## Model Definition
 
-We use Caffe deep learning framwork: http://caffe.berkeleyvision.org/
+We use Caffe deep learning framework: http://caffe.berkeleyvision.org/
 
 The CNN models are fine-tuned from ImageNet-pretrained AlexNet with the following input/output modifications:
 
