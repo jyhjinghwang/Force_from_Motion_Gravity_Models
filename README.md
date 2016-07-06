@@ -1,4 +1,4 @@
-# Force from Motion Gravity CNN Model
+# Force from Motion Gravity CNN Models
 
 This is the repository for releasing trained gravity CNN models of the paper, "Force from Motion: Decoding Physical Sensation from a First Person Video" in CVPR 2016.
 
