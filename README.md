@@ -2,7 +2,7 @@
 
 This is the repository for releasing trained gravity CNN models of the paper, "Force from Motion: Decoding Physical Sensation from a First Person Video" in CVPR 2016.
 
-For more information, please check the project webpage: http://www.seas.upenn.edu/~hypar/ffm.html
+For more information, please visit our project webpage: http://www.seas.upenn.edu/~hypar/ffm.html
 
 
 ## Model Definition
