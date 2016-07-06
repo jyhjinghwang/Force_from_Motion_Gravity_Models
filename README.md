@@ -1,4 +1,4 @@
-# EgoPhysics_Gravity_CNN_Model
+# EgoPhysics_Gravity_Model
 
 This is the repository for releasing trained gravity CNN models of the paper "Force from Motion: Decoding Physical Sensation from a First Person Video".
 
