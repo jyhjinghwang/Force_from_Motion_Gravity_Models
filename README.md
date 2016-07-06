@@ -11,9 +11,9 @@ We use Caffe deep learning framwork: http://caffe.berkeleyvision.org/
 
 The CNN models are fine-tuned from ImageNet-pretrained AlexNet with the following input/output modifications:
 
-The input resolution is (180, 320), instead of (227, 227).
+* Image resolution is (180, 320), instead of (227, 227).
 
-The output is 61 dimensions. It predicts the probability of projected gravity angle discretized by 1 degree between -30 and 30 with the 31th dimensions as 0 degree.
+* Output is 61 dimensions. It predicts the probability of projected gravity angle discretized by 1 degree between -30 and 30 with the 31th dimensions as 0 degree.
 
 Check the sample prototxt file.
 
