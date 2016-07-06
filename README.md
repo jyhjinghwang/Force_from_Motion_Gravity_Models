@@ -1,6 +1,6 @@
 # EgoPhysics Gravity CNN Model
 
-This is the repository for releasing trained gravity CNN models of the paper "Force from Motion: Decoding Physical Sensation from a First Person Video".
+This is the repository for releasing trained gravity CNN models of the paper, "Force from Motion: Decoding Physical Sensation from a First Person Video" in CVPR 2016.
 
 
 The CNN models are fine-tuned from ImageNet-pretrained AlexNet with the following input/output modifications:
